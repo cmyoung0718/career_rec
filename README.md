@@ -5,4 +5,7 @@ The goal of this project was to build a job recommendation engine. With vectoriz
 Parts of the code have been purposely left out for legal reasons.
 
 ### Slide deck
+
+{::nomarkdown}
 <iframe src="https://docs.google.com/presentation/d/1WVKsxtuPchFBn5foV0bCIa-f6DKy-i_-7MDue69OedU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+{:/}
